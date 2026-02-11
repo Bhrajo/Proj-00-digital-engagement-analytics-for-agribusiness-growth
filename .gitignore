@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # Outputs (generated files)
-outputs/**
+# outputs/**
 
 # Environment
 .env
