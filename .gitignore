@@ -1,16 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
 # Python
 __pycache__/
 *.pyc
 
-# Jupyter
-.ipynb_checkpoints/
+# Outputs (generated files)
+outputs/**
 
-# Data files (keep structure, not data)
-data/*.csv
-
-# Outputs
-outputs/
-
-# Environment & system
+# Environment
 .env
 .DS_Store
