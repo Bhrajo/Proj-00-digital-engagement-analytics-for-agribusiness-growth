@@ -195,9 +195,9 @@ Proj-00-digital-engagement-analytics-for-agribusiness-growth
 |── environment.yml
  ── requirements.txt
  ── README.md
- ── LICENSE.md
+ ── LICENSE
  ── .gitignore
- 
+
 ```
 
 
